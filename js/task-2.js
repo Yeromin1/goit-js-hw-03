@@ -1,3 +1,5 @@
+'use strict';
+
 function makeArray(firstArray, secondArray, maxLength) {
     let combinedArray = firstArray.concat(secondArray);
 
